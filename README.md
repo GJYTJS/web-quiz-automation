@@ -1,5 +1,9 @@
 # Web Quiz Automation
 
+> **⚠️ Technical Demo** — This project is a browser automation technical demonstration.
+> It showcases CDP/Selenium hybrid driving, DOM robust parsing, and fuzzy matching strategies.
+> Use responsibly and in compliance with platform terms of service.
+
 Browser automation toolkit for web-based quiz systems, built with **Selenium WebDriver** and **Chrome DevTools Protocol (CDP)**.
 
 ## Features
