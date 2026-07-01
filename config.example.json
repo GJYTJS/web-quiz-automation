@@ -1,0 +1,6 @@
+{
+    "api_url": "https://api.deepseek.com/v1/chat/completions",
+    "api_key": "YOUR_API_KEY_HERE",
+    "model": "deepseek-reasoner",
+    "system_prompt": "You are a precise assistant. Analyze each question carefully and provide the correct answer."
+}
