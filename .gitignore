@@ -19,4 +19,7 @@ test.txt
 
 # OS
 .DS_Store
-Thumbs.db全自动答题.bat
+Thumbs.db
+
+# Personal launcher
+全自动答题.bat
